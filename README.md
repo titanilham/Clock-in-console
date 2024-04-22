@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=FF35EA&random=false&width=435&lines=Clock+in+console" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=D670D6&random=false&width=435&lines=Clock+in+console" alt="Typing SVG" />
 
 
 ### Preview: 
