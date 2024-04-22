@@ -1,8 +1,5 @@
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=FF35EA&random=false&width=435&lines=Clock+in+console" alt="Typing SVG" />
 
-</div>
 
 ### Preview: 
 ![](https://github.com/titanilham/Clock-in-console-/blob/main/main/image_2024-04-22_14-33-44.png?raw=true)
